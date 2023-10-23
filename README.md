@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Android , Website , Flutter , Cloud**
 
-- 📫 How to reach me **anhtranms03@gmail.com.com**
+- 📫 How to reach me **anhtranms03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
